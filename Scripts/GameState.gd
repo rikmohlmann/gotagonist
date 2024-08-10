@@ -1,7 +1,5 @@
-GameState.gd
-4.96 KB • 182 extracted lines
 
-Formatting may be inconsistent from source.
+# GameState.gd
 
 extends Node
 

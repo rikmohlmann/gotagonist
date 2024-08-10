@@ -1,7 +1,5 @@
-ButtonInteraction.gd
-1.52 KB • 56 extracted lines
 
-Formatting may be inconsistent from source.
+#ButtonInteraction.gd
 
 extends TextureButton
 

@@ -1,7 +1,5 @@
-AnimationControl.gd
-2.58 KB • 96 extracted lines
 
-Formatting may be inconsistent from source.
+#AnimationControl.gd
 
 extends AnimatedSprite2D
 
