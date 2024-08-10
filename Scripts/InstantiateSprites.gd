@@ -1,4 +1,4 @@
-#InstantiateSprites.gd
+#InstantiateButtons.gd
 
 extends GridContainer
 
