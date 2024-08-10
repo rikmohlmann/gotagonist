@@ -10,4 +10,4 @@
 
 - TextureButton scenes have an AnimatedSprite2D as a child with the script called AnimationControl.gd attached to each.
 
-- InstantiateSprites.gd, ButtonInteract.gd and AnimiaitonControl.gd all interact with a singleton script in autoload called GameState.gd.
+- InstantiateSprites.gd, ButtonInteract.gd and AnimationControl.gd all interact with a singleton script in autoload called GameState.gd.
